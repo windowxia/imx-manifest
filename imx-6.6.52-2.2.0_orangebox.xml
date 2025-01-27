@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <include name="imx-6.6.52-2.2.0.xml"/>
+
+ <project name="meta-imx-orangebox" path="sources/meta-imx-orangebox" remote="imx" revision="332517f25bc697a5ed47745593f4ab8ce7325a48" upstream="scarthgap-6.6.52-2.2.0"/>
+ <project name="meta-imx-scfw" path="sources/meta-imx-scfw" remote="imx" revision="17ac4b7894f10c0b84bde472fa95765e535afe45" upstream="master"/>
+ <project name="meta-nxp-web-ui" path="sources/meta-nxp-web-ui" remote="imx" revision="6f3e2af427ee5e4e2dbfaf2876688483f763c2b6" upstream="master"/>
+
+</manifest>
